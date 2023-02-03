@@ -1,0 +1,11 @@
+database name:
+prasad123$flask
+
+host name:
+prasad123.mysql.pythonanywhere-services.com
+
+username:
+prasad123
+
+password:
+Bhange@230402
